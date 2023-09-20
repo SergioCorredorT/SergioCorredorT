@@ -1,7 +1,9 @@
-<h1>Hola, soy Sergio 👋</h1>
+<div style="background-color: blue">
+  <h1>Hola, soy Sergio 👋</h1>
 
 <h2>Mis skills:</h2>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,php,java,mysql,vscode,vite,tailwind,github" />
+</div>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
