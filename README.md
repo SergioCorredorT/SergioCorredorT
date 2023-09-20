@@ -1,6 +1,12 @@
 <div style="color: blue">
   <h1>Hola, soy Sergio 👋</h1>
 
+  🌱 Me encanta aprender alguna skill nueva, actualmente estoy con React
+  👯 Me gusta trabajar en equipo
+  🤔 Siempre dispuesto a ayudar
+  ⚡ Diversión: Programar y ver noticias de tecnología y política.
+
+Siempre hay solución mientras haya alguien buscándola
   <h2>Mis skills:</h2>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,php,java,mysql,vscode,vite,tailwind," />
 </div>
