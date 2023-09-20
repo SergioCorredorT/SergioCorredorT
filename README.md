@@ -1,6 +1,6 @@
-Hola, soy Sergio 👋
+<h1>Hola, soy Sergio 👋</h1>
 
-Mis skills:
+<h2>Mis skills:</h2>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,php,java,mysql,vscode,vite,tailwind,github" />
 <!--
 - 🔭 I’m currently working on ...
