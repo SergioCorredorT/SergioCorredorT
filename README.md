@@ -2,8 +2,10 @@
   <h1>Hola, soy Sergio 👋</h1>
 
   <h2>Mis skills:</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,php,java,mysql,vscode,vite,tailwind,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,php,java,mysql,vscode,vite,tailwind," />
 </div>
+  <h2>Mis redes</h2>
+    <img src="https://skillicons.dev/icons?i=linkedin,github" />
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
