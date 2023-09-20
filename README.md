@@ -1,5 +1,6 @@
 Hola, soy Sergio 👋
 
+Mis skills:
 <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,php,java,mysql,vscode,vite,tailwind,github" />
 <!--
 - 🔭 I’m currently working on ...
