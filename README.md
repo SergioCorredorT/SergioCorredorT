@@ -1,5 +1,6 @@
 <div style="color: blue">
   <h1>Hola, soy Sergio 👋</h1>
+  <h2>Sitio en construcción, siempre mejorando</h2>
 
   
   <p>🌱 Me encanta aprender alguna skill nueva, actualmente estoy con React</p>
