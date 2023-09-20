@@ -1,6 +1,12 @@
 <div style="color: blue">
   <h1>Hola, soy Sergio 👋</h1>
   <h2>Sitio en construcción, siempre mejorando</h2>
+<!--
+ Falta:
+    Añadir img adecuada en el cabecero.
+    CSS?
+    linkear linkedin
+-->
 
   
   <p>🌱 Me encanta aprender alguna skill nueva, actualmente estoy con React</p>
@@ -13,13 +19,3 @@
 </div>
   <h2>Mis redes</h2>
     <img src="https://skillicons.dev/icons?i=linkedin,github" />
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
