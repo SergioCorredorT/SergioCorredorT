@@ -1,6 +1,6 @@
 Hola, soy Sergio 👋
 
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+<img src="https://skillicons.dev/icons?i=html, css, git, js" />
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
