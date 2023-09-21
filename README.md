@@ -1,4 +1,4 @@
-<div style="color: blue">
+<div style="color: #85C1E9">
   <h1>Hola, soy Sergio 👋</h1>
   <h2>Sitio en construcción, siempre mejorando</h2>
 <!--
