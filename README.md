@@ -9,9 +9,9 @@
 -->
 
   
-  <p>🌱 Me encanta aprender alguna skill nueva, actualmente estoy con React</p>
+  <p>🌱 Me encanta aprender skills nuevas, actualmente estoy con React</p>
   <p>👯 Me gusta trabajar en equipo</p>
-  <p>🤔 Siempre hay solución, siempre dispuesto a ayudar</p>
+  <p>🤔 Siempre hay solución </p>
   <p>⚡ Diversión: Programar y ver noticias de tecnología y política.</p>
 
   <h2>Mis skills:</h2>
