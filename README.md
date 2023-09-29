@@ -14,6 +14,8 @@
   <p>🤔 Siempre hay solución </p>
   <p>⚡ Diversión: Programar y ver noticias de tecnología y política.</p>
 
+  Aparte de los proyectos de esta página, puede ver la app Lobotest subida a Play Store, creada por mí
+
   <h2>Mis skills:</h2>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,php,java,mysql,vscode,vite,tailwind," />
 </div>
