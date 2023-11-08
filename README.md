@@ -12,7 +12,7 @@
   <p>🌱 Me encanta aprender skills nuevas, actualmente estoy con React</p>
   <p>👯 Me gusta trabajar en equipo</p>
   <p>🤔 Siempre hay solución </p>
-  <p>⚡ Diversión: Programar y ver noticias de tecnología y política.</p>
+  <p>⚡ Diversión: Programar y ver noticias de tecnología y actualidad.</p>
 
   Aparte de los proyectos de esta página, puede ver la app Lobotest subida a Play Store, creada por mí
 
