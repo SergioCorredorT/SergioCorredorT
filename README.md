@@ -12,7 +12,7 @@
   <p>🌱 Me encanta aprender skills nuevas, actualmente estoy creando un API de una aerolínea con PHP y React (para cuando acabe la parte de PHP)</p>
   <p>👯 Me gusta trabajar en equipo</p>
   <p>🤔 Siempre hay solución </p>
-  <p>⚡ Diversión: Programar y ver noticias de tecnología y actualidad.</p>
+  <p>⚡ Diversión: Programar y ver noticias de tecnología, actualidad y entrenamiento.</p>
 
   Aparte de los proyectos de esta página, puede ver la app Lobotest subida a Play Store, creada por mí
 
